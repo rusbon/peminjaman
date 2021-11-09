@@ -11,4 +11,4 @@
 ## How To Use
 1. Create your own env file
 2. Run `php artisan serve`
-3. Access [localhost:8000/inventory](localhost:8000/inventory) or [http://localhost:8000/peminjaman](localhost:8000/peminjaman)
+3. Access [localhost:8000/inventory](http://localhost:8000/inventory) or [localhost:8000/peminjaman](http://localhost:8000/peminjaman)
